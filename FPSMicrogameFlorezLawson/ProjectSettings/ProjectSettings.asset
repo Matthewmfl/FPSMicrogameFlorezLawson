@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: ff04254e413b8ed4a9d4576a5adc88b1
+  productGUID: 12b054a03d986d144af2a421eff706c1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -134,7 +134,7 @@ PlayerSettings:
     16:10: 0
     16:9: 1
     Others: 0
-  bundleVersion: 3.0.0
+  bundleVersion: 4.0.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -235,8 +235,8 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-  clonedFromGUID: 75052de9e8a2d1f4091c90c6f10d5d28
-  templatePackageId: 
+  clonedFromGUID: 612e347b4bc13e14090c6eb401a01ec4
+  templatePackageId: com.unity.template.fps@4.0.1
   templateDefaultScene: 
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
